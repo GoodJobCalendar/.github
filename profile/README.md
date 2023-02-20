@@ -6,6 +6,8 @@
 - [굿잡캘린더 바로가기](https://goodjobcalendar.com)<br/>
 - [굿잡캘린더 노션](https://marked-chemistry-398.notion.site/3f8a1983d30844b3b8b812a7e3d995f0)<br/>
 - [굿잡캘린더 발표자료](https://www.miricanvas.com/v/11b5fgn)
+- [ServerGithub](https://github.com/Magiof/goodjob_BE)
+- [ClientGithub](https://github.com/YoujungSon/Good-Job-Calender)
 
 ### 🚀 기능
 😃 캘린더
